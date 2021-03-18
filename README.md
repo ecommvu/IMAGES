@@ -16,4 +16,4 @@ Bagisto is an eCommerce ecosystem designed for all to build and scale your busin
 *	Robust API
 *	Smooth Delivery And Return
 
-![](https://ibb.co/Zm8Pw0f)
+![logo](https://ibb.co/Zm8Pw0f)
