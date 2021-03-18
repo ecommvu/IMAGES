@@ -1,5 +1,5 @@
 # ECOMMVU+BAGISTO+RAZORPAY
-![](ecommvu/IMAGES/Untitled design.svg)
+![](IMAGES/Untitled design.svg)
 ===============
 Ecommvu is a team of highly experienced, skilled & specialized professionals who had been developing software services in various domains such as Android applications, Web applications, iOS applications, PWA, Windows softwares, etc. 
 Bagisto is an eCommerce ecosystem designed for all to build and scale your business.PayU is a fintech company that provides payment technology to online merchants.
